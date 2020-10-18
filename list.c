@@ -1,38 +1,7 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@abiswas100 
-abiswas100
-/
-c
-forked from justin-lathrop/c
-0
-0
-315
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-c/List/List.c
-@justin-lathrop
-justin-lathrop Linked List with generic items contained.
-Latest commit a99ecd7 on Oct 26, 2013
- History
- 1 contributor
-353 lines (289 sloc)  6.34 KB
-  
 /*
- * @author: jelathro
- * @date: 10/24/13
+ * @author: abiswas100
+ * @date: 10/18/20
  * 
  * 
  */
@@ -382,16 +351,3 @@ int list_set_at(List_t * list, void * data, int idx){
 	return(0);
 }
 
-#endif
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
